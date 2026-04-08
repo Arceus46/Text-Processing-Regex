@@ -5,6 +5,7 @@ https://www.kaggle.com/datasets/najmarafifah/analisis-sentimen-komentar-tiktok-p
 
 ## Fitur
 - Regex
+- Slang
 - Tokenisasi
 - Stopword
 - Stemming
